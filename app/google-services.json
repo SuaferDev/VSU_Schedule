@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "695306448410",
+    "firebase_url": "https://schedule-81612-default-rtdb.firebaseio.com",
+    "project_id": "schedule-81612",
+    "storage_bucket": "schedule-81612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695306448410:android:241e81d99018bd9523eba3",
+        "android_client_info": {
+          "package_name": "com.suafer.vsucs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZi2fy4xCxRJ8vXs2IRdD-EL1xsoX-z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

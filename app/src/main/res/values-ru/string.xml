@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ВГУ Хелпер</string>
+
+    <string name="page_time">Таймер</string>
+    <string name="page_schedule">Расписание</string>
+    <string name="page_additional">Дополнительное</string>
+
+
+    <string name="menu_setting">Настройки</string>
+    <string name="menu_schedule">Расписание</string>
+    <string name="menu_additional">Дополнительное</string>
+
+
+    <string name="vertsion_new">Установлена последняя версия</string>
+    <string name="vertsion_outdated">Версия устарела</string>
+    <string name="vertsion_cannot_determined">Невозможно проверить версию</string>
+
+    <string name="toast_back">Нажмите ещё раз для выхода</string>
+    <string name="toast_ver">Версия устарела</string>
+</resources>

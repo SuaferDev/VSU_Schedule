@@ -1,0 +1,19 @@
+<resources>
+
+       <string name="app_name">ВГУ Helper</string>
+
+       <string name="page_time">Timer</string>
+       <string name="page_schedule">Schedule</string>
+       <string name="page_additional">Additional</string>
+
+       <string name="menu_setting">Setting</string>
+       <string name="menu_additional">Additional</string>
+       <string name="menu_schedule">Schedule</string>
+
+       <string name="vertsion_new">Latest version installed</string>
+       <string name="vertsion_outdated">Version is outdated</string>
+       <string name="vertsion_cannot_determined">Unable to check version</string>
+
+       <string name="toast_back">Click again to exit</string>
+       <string name="toast_ver">Version is outdated</string>
+</resources>

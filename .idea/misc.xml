@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/background1234.xml" value="0.2405" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/custom_schedule_element.xml" value="0.1435" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/icon_checklist_select.xml" value="0.1435" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/icon_time_select.xml" value="0.193" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/rounded_distance.xml" value="0.1" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/rounded_navigator_bar.xml" value="0.1435" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/drawable/rounded_schedule.xml" value="0.1435" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/activity_list.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/activity_schedule.xml" value="0.264" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/activity_time.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/content_test.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/custom_schedule_element.xml" value="0.264" />
+        <entry key="..\:/Users/nikis/AndroidStudioProjects/VSUCS/app/src/main/res/layout/popup_content.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

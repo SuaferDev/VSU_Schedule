@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1">
+            <TextView
+                android:id="@+id/textview_words"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/main_font"
+                android:textColor="#FFFFFF" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/text_hours"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="80sp"
+                    android:fontFamily="@font/main_font"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textColor="#FFFFFF"/>
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textSize="50sp"
+                    android:text=".."
+                    android:fontFamily="@font/main_font"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#FFFFFF"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:id="@+id/text_minutes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="80sp"
+                    android:fontFamily="@font/main_font"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textSize="50sp"
+                    android:text=".."
+                    android:fontFamily="@font/main_font"
+                    android:textColor="#FFFFFF"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:id="@+id/text_seconds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="80sp"
+                    android:fontFamily="@font/main_font"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
